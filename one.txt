@@ -1,3 +1,4 @@
 Big data analysis
 Hadoop architecture
 kafka - zookeeper
+AWS - Kinesis Data firehose - Streaming of data
